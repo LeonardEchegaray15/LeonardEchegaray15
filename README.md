@@ -1,5 +1,5 @@
 <h1 align="center">Hi , I'm Leonardo Echegaray Torres <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<img align="right" width=300px alt="Sunrise" src="https://media1.tenor.com/m/riAbGdAhpIYAAAAC/lo-fi-hip-hop.gif" />
+<img align="right" width=300px alt="Sunrise" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExN29iOWZvZHNmdHkxc3JtbnV1dTMxN2hkN21qejN0eWU4anV4cXpraSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JoIcxJVEBTe1NBj9hR/giphy.gif" />
 
 🌅 **Sobre mí**
 
