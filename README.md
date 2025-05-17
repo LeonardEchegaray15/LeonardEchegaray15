@@ -71,3 +71,12 @@ Soy estudiante de Ingeniería Industrial, apasionado por la tecnología, el desa
 ## Gaming
 <img src= "https://img.shields.io/badge/battle.net-%2300AEFF.svg?style=for-the-badge&logo=battle.net&logoColor=white">
 <img src= "https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white">
+
+
+<div align="center">
+<h2>Github stats:</h2> 
+
+[![](https://github-readme-stats.vercel.app/api?username=LeonardEchegaray15&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/LeonardEchegaray15)
+[![](https://github-readme-streak-stats.herokuapp.com/?user=LeonardEchegaray15&theme=material-palenight)](https://github.com/LeonardEchegaray15)
+</div>
+
