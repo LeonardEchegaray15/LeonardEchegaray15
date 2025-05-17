@@ -1,17 +1,18 @@
 <h1 align="center">Hi , I'm Leonardo Echegaray Torres <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <img align="right" width=300px alt="Sunrise" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExN29iOWZvZHNmdHkxc3JtbnV1dTMxN2hkN21qejN0eWU4anV4cXpraSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JoIcxJVEBTe1NBj9hR/giphy.gif" />
 
-🌅 **Sobre mí**
+🖥️ About Me
 
-Soy estudiante de Ingeniería Industrial, apasionado por la tecnología, el desarrollo web y la automatización de procesos. Tengo experiencia en lenguajes de programación como Python, C#, JavaScript, HTML y SQL. Disfruto aprendiendo constantemente y aplicando mis conocimientos para resolver problemas de manera eficiente.
+I am a Systems Engineering student passionate about technology, web development, and process automation. I have experience in programming languages such as Python, C#, JavaScript, HTML, and SQL. I enjoy continuously learning and applying my knowledge to solve problems efficiently.
 
-- 🌱 Actualmente estoy aprendiendo:
-  - Desarrollo de sistemas de inventario y tráfico con inteligencia artificial
-  - Análisis de procesos industriales y automatización
-- 💡 Me interesa colaborar en proyectos que involucren la optimización de procesos y el desarrollo de herramientas prácticas.
-- ✔ ¡Pregúntame cualquier cosa! Si está en mi área de experiencia, estaré encantado de ayudar. 😉
-- 🌅 Además de la tecnología, disfruto de los amaneceres, el atardecer, el ejercicio y mantenerme activo físicamente.
-- 📫 Puedes contactarme en: [leo.echegaray.torres@gmail.comm](mailto:leo.echegaray.torres@gmail.com)
+🌱 Currently, I am learning:
+Development of inventory and traffic systems with artificial intelligence
+Analysis of industrial processes and automation
+💡 I am interested in collaborating on projects involving process optimization and the development of practical tools.
+✔ Feel free to ask me anything! If it's within my area of expertise, I'd be happy to help. 😉
+🌅 Besides technology, I enjoy sunrises, sunsets, exercising, and staying physically active.
+📫 You can reach me at: [leo.echegaray.torres@gmail.comm](mailto:leo.echegaray.torres@gmail.com)
+
 ## My Skills Include
 
 <h4> Languages </h4>
