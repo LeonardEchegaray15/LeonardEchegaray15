@@ -1,14 +1,19 @@
-<h1 align="center">Hi , I'm Leonardo Echegaray Torres <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center">Hola, soy Leonardo Echegaray Torres <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 
-🖥️ About Me
+🎓 Sobre mí
 
-I am a Systems Engineering student passionate about technology, web development, and process automation. I have experience in programming languages such as Python, C#, JavaScript, HTML, and SQL. I enjoy continuously learning and applying my knowledge to solve problems efficiently.
-- 📫 You can reach me at: [leo.echegaray.torres@gmail.comm](mailto:leo.echegaray.torres@gmail.com)
+Soy estudiante de Ingeniería de Sistemas con interés en desarrollo de software, automatización de procesos y tecnologías web.
 
-## My Skills Include
+Tengo experiencia trabajando con Python, C#, JavaScript, SQL y desarrollo de aplicaciones web. También he participado en proyectos relacionados con automatización mediante n8n, gestión de bases de datos y desarrollo de aplicaciones móviles.
 
-<h4> Languages </h4>
+Actualmente me encuentro fortaleciendo mis conocimientos en desarrollo Full Stack, bases de datos y soluciones tecnológicas orientadas a la optimización de procesos.
+
+📧 Contacto: leo.echegaray.torres@gmail.com
+
+## Tecnologías y Herramientas
+
+<h4> Lenguajes </h4>
 <span> 
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
@@ -18,25 +23,25 @@ I am a Systems Engineering student passionate about technology, web development,
   <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white">
 </span>
 
-<h4> Design </h4>
+<h4> Diseño </h4>
 <span>
   <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white">
 </span>
 
-<h4> Frameworks </h4>
+<h4> Frameworks y Tecnologías </h4>
 <span>
   <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
   <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white">
 </span>
 
-<h4> Databases </h4>
+<h4> Bases de Datos </h4>
 <span>
   <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
   <img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white">
   
 </span>
 
-<h4> IDE </h4>
+<h4> Herramientas </h4>
 <span>
 <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
 <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white">
@@ -45,13 +50,13 @@ I am a Systems Engineering student passionate about technology, web development,
 <img src="https://img.shields.io/badge/android%20studio-346ac1?style=for-the-badge&logo=android%20studio&logoColor=white">
 
 
-<h4> Other Tools and Technologies </h4>
+<h4> Otras herramientas y tecnologias </h4>
 <span>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
   <img src="https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black">
 </span>
 
-## Check out my Social Media
+## Mis redes socialees
 <a href = "">
   <img src= "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
