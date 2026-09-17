@@ -3,11 +3,10 @@
 
 🎓 Sobre mí
 
-Soy estudiante de Ingeniería de Sistemas con interés en desarrollo de software, automatización de procesos y tecnologías web.
+Egresado de Ingeniería de Sistemas, con experiencia en desarrollo de software, automatización de procesos, gestión de información y soporte de infraestructura. He participado en proyectos orientados a optimizar procesos operativos, resolver necesidades
+tecnológicas y mejorar la eficiencia de las organizaciones, colaborando bajo metodologías ágiles. Busco desarrollarme en áreas de
+tecnología, aportando soluciones eficientes y orientadas a las necesidades del negocio.
 
-Tengo experiencia trabajando con Python, C#, JavaScript, SQL y desarrollo de aplicaciones web. También he participado en proyectos relacionados con automatización mediante n8n, gestión de bases de datos y desarrollo de aplicaciones móviles.
-
-Actualmente me encuentro fortaleciendo mis conocimientos en desarrollo Full Stack, bases de datos y soluciones tecnológicas orientadas a la optimización de procesos.
 
 📧 Contacto: leo.echegaray.torres@gmail.com
 
